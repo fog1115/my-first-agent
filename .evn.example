@@ -1,0 +1,11 @@
+# 1. 模型名称（DeepSeek 的对话模型叫 deepseek-chat）
+LLM_MODEL_ID=deepseek-chat
+
+# 2. 你的 API 密钥（去平台申请，以 sk- 开头）
+LLM_API_KEY=sk-xxxx
+
+# 3. 服务地址（DeepSeek 的兼容地址）
+LLM_BASE_URL=https://api.deepseek.com/v1
+
+# 4. 超时时间（保持默认即可）
+LLM_TIMEOUT=60
