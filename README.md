@@ -37,6 +37,4 @@
 3. 运行 Agent：`python my_first_agent.py`
 4. 运行 RAG：`python second-real-agent.py`
 
-## 📸 运行效果
-*(此处可以放一张你刚才跑通 RAG 的终端截图，用图片展示你的成果)*
 
